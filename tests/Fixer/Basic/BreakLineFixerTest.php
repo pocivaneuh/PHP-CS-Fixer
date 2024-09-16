@@ -50,6 +50,7 @@ final class BreakLineFixerTest extends AbstractFixerTestCase
 
             $partial = [
                 $elem1,
+
                 foobar(),
                 $elem2,
             ];
